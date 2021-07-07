@@ -2,4 +2,5 @@
 # discord_bot_functions
 A collection of functions that might be interesting to use in a discord bot.
 
-kpop.py returns a random k-pop video
+The file 'kpop.py' needs to have a YouTube token to run.  It will return a random k-pop video to the chat window,
+when ran inside Discord.
